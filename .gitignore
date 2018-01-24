@@ -33,4 +33,5 @@
 #Directory#
 ################
 Data analysis/
-.*/
+.idea/
+.ipynb_checkpoints/
